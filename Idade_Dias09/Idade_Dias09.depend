@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503271099 source:c:\users\vini\desktop\linguagem c - unip\exercicios\idade_dias09\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+
